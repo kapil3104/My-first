@@ -1,0 +1,21 @@
+/* Move down content because we have a fixed navbar that is 50px tall */
+body {
+  padding-top: 50px;
+  padding-bottom: 20px;
+}
+.navbar-header {
+	padding-top: 15px;
+}
+
+.jumbotron {
+	text-align: center;
+}
+
+#navbar {
+	padding-top: 15px;
+	padding-bottom: 15px;	
+}
+
+h4#kk {
+	font-size: 20pt;
+}
